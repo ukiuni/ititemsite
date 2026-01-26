@@ -9,8 +9,23 @@ def generate_amazon_link(asin, name):
     return f"https://www.amazon.co.jp/s?k={name}&tag={ASSOCIATE_ID}"
 
 def main():
+    # Load base items
     with open('data/items.json', 'r', encoding='utf-8') as f:
         items = json.load(f)
+    
+    # Load and merge cached items if they exist
+    cache_dir = 'data/cache'
+    if os.path.exists(cache_dir):
+        for filename in os.listdir(cache_dir):
+            if filename.endswith('.json'):
+                with open(os.path.join(cache_dir, filename), 'r', encoding='utf-8') as f:
+                    cached_items = json.load(f)
+                    # Merge by ID to avoid duplicates
+                    item_ids = {item['id'] for item in items}
+                    for c_item in cached_items:
+                        if c_item['id'] not in item_ids:
+                            items.append(c_item)
+                            item_ids.add(c_item['id'])
 
     # index.html
     carousel_html = ""
