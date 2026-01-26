@@ -1,0 +1,72 @@
+[
+  {
+    "id": "arzopa-monitor",
+    "name": "ARZOPA 16インチ モバイルモニター",
+    "category": "モニター",
+    "summary": "軽量・薄型のサブモニター。USB-C一本で接続可能で、作業効率を劇的に向上させます。",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800",
+    "asin": "B0CH9XR3G4",
+    "sources": [
+      {
+        "title": "【2026年最新】PC作業の効率が爆上がり！デスクに常駐させたい「名脇役」ガジェット5選",
+        "url": "https://note.com/gadgeter_117/n/n2fe2c995c8ea"
+      }
+    ]
+  },
+  {
+    "id": "anker-cable-holder",
+    "name": "Anker Magnetic Cable Holder",
+    "category": "デスク周辺",
+    "summary": "マグネット式でケーブルを固定。デスクからのずり落ちを防ぎ、見た目もスッキリ整えます。",
+    "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=800",
+    "asin": "B08X6D6S8S",
+    "sources": [
+      {
+        "title": "【2026年最新】PC作業の効率が爆上がり！デスクに常駐させたい「名脇役」ガジェット5選",
+        "url": "https://note.com/gadgeter_117/n/n2fe2c995c8ea"
+      }
+    ]
+  },
+  {
+    "id": "stream-deck-neo",
+    "name": "Elgato Stream Deck Neo",
+    "category": "入力デバイス",
+    "summary": "よく使う操作をボタン一つで実行。モダンなデザインでデスクセットアップに馴染みます。",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83dadc?w=800",
+    "asin": "B0CZNCXW28",
+    "sources": [
+      {
+        "title": "【2026年最新】PC作業の効率が爆上がり！デスクに常駐させたい「名脇役」ガジェット5選",
+        "url": "https://note.com/gadgeter_117/n/n2fe2c995c8ea"
+      }
+    ]
+  },
+  {
+    "id": "quntis-light",
+    "name": "Quntis モニターライト",
+    "category": "照明",
+    "summary": "画面の反射を抑え、手元を最適に照らします。自動調光機能で目の疲れを軽減。",
+    "image": "https://images.unsplash.com/photo-1534073828943-f801091bb18c?w=800",
+    "asin": "B08DKQZ97S",
+    "sources": [
+      {
+        "title": "【2026年最新】PC作業の効率が爆上がり！デスクに常駐させたい「名脇役」ガジェット5選",
+        "url": "https://note.com/gadgeter_117/n/n2fe2c995c8ea"
+      }
+    ]
+  },
+  {
+    "id": "sanwa-cable-tray",
+    "name": "サンワダイレクト ケーブルトレー",
+    "category": "デスク周辺",
+    "summary": "配線を浮かせて収納し、足元のカオスを解決。掃除も楽になり、デスク周りが清潔に保てます。",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+    "asin": "B089K8D9J7",
+    "sources": [
+      {
+        "title": "【2026年最新】PC作業の効率が爆上がり！デスクに常駐させたい「名脇役」ガジェット5選",
+        "url": "https://note.com/gadgeter_117/n/n2fe2c995c8ea"
+      }
+    ]
+  }
+]
