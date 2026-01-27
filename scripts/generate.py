@@ -95,8 +95,12 @@ def main():
         
         # Amazon Image Link
         amazon_image_link = ""
-        if item.get('asin'):
-            amazon_image_link = f'<div class="amazon-image-link"><a href="{amazon_url}" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/P/{item["asin"]}.01.LZZZZZZZ.jpg" alt="Amazonで見る"><p>Amazonで詳しく見る</p></a></div>'
+        asin = item.get('asin')
+        if asin:
+            # Check for multiple ASINs (if applicable) or handle string
+            if isinstance(asin, list):
+                asin = asin[0]
+            amazon_image_link = f'<div class="amazon-image-link"><a href="{amazon_url}" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/P/{asin}.01.LZZZZZZZ.jpg" alt="Amazonで見る"><p>Amazonで詳しく見る</p></a></div>'
 
         item_template = f"""
 <!DOCTYPE html>

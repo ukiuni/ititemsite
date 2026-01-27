@@ -22,11 +22,15 @@
 
 4. **個別アイテムページ**
    - アイテム詳細・画像・Amazonアソシエイトリンクを掲載。
+   - 紹介文は、ITエンジニアが「ソフトウェア開発の現場で具体的にどう活かせるか」「どのような技術的メリットがあるか」に焦点を当てた、プロフェッショナルなトーンで作成する。
+   - Amazonの画像付きリンク（バナー）を必ず目立つ位置に掲載する。
    - そのアイテムが紹介されていた**記事URLをリスト**で表示。
 
 5. **Amazonアソシエイト**
-   - ASINがある場合: `https://www.amazon.co.jp/dp/{ASIN}/?tag=utag-22`
-   - ASINがない場合: 検索リンク `https://www.amazon.co.jp/s?k={キーワード}&tag=utag-22`
+   - ID: `ukiuni-22` を使用する。
+   - ASINがある場合: `https://www.amazon.co.jp/dp/{ASIN}/?tag=ukiuni-22`
+   - ASINがない場合: 検索リンク `https://www.amazon.co.jp/s?k={キーワード}&tag=ukiuni-22`
+   - 画像付きリンク生成用URL（ASINベース）: `https://images-na.ssl-images-amazon.com/images/P/{ASIN}.01.LZZZZZZZ.jpg` を活用してバナーを作成する。
 
 6. **GitHub Pages公開**
    - GitHub Actions でビルド → `dist/` を `actions/deploy-pages` で公開。
