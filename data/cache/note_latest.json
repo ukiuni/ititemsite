@@ -1,57 +1,71 @@
 [
   {
-    "id": "keychron-q11",
-    "name": "Keychron Q11 分割メカニカルキーボード",
-    "category": "キーボード",
-    "summary": "75%レイアウトの左右分離型キーボード。肩こり軽減と自然なタイピング姿勢をサポートします。",
-    "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=800",
-    "asin": "B0DX6XKJVZ",
-    "sources": [
-      {
-        "title": "【結論、悩んでる人は買うべし】Keychron Q11 分割キーボードを1年半間使っての改めての2026年版感想",
-        "url": "https://note.com/ok_jobs/n/n86d16ea9135c"
-      }
-    ]
-  },
-  {
-    "id": "mac-mini-m4",
-    "name": "Apple Mac mini M4",
-    "category": "PC",
-    "summary": "驚くほどコンパクトになったM4チップ搭載Mac mini。最小サイズながらパワフルな処理能力を持ち、デスクスペースを最大限に活用できます。",
-    "image": "https://images.unsplash.com/photo-1731411516545-207038753f7c?w=800",
-    "asin": "B0DB7D9W72",
-    "sources": [
-      {
-        "title": "【2026年版】Amazonスマイルセールおすすめガジェット｜正直「もっと早く買えばよかった」愛用品だけ厳選",
-        "url": "https://note.com/muramitsu/n/n48aa4295d5ae"
-      }
-    ]
-  },
-  {
-    "id": "keychron-k2-max",
-    "name": "Keychron K2 Max (Special Edition)",
-    "category": "キーボード",
-    "summary": "ウッド＋アルミフレームの質感が最高なメカニカルキーボード。Silent K Proスイッチによる静音かつ心地よい打鍵感が特徴です。",
-    "image": "https://images.unsplash.com/photo-1595225405013-98993547f4d0?w=800",
-    "asin": "B0FDB7T9JY",
-    "sources": [
-      {
-        "title": "【2026年版】Amazonスマイルセールおすすめガジェット｜正直「もっと早く買えばよかった」愛用品だけ厳選",
-        "url": "https://note.com/muramitsu/n/n48aa4295d5ae"
-      }
-    ]
-  },
-  {
-    "id": "mx-anywhere-3s",
-    "name": "Logicool MX Anywhere 3S",
-    "category": "マウス",
-    "summary": "どこでも使える究極のモバイルマウス。静音クリックと高速スクロール機能を搭載し、最大3台のデバイスをシームレスに切り替え可能です。",
+    "id": "ugreen-laptop-stand",
+    "name": "UGREEN ノートPCスタンド",
+    "category": "PC周辺機器",
+    "summary": "5段階の高さ調整が可能な、軽量・コンパクトなアルミ製スタンド。持ち運びに便利な収納袋付き。",
     "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800",
-    "asin": "B0C4TW6F4P",
+    "asin": "B08927RNG9",
     "sources": [
       {
-        "title": "【2026年版】Amazonスマイルセールおすすめガジェット｜正直「もっと早く買えばよかった」愛用品だけ厳選",
-        "url": "https://note.com/muramitsu/n/n48aa4295d5ae"
+        "title": "【ベストバイ2025】買ってよかったもの・ガジェット・サービス10選",
+        "url": "https://note.com/yuuwata/n/n862bd156a33b"
+      }
+    ]
+  },
+  {
+    "id": "mx-master-3s",
+    "name": "ロジクール MX Master 3S",
+    "category": "マウス",
+    "summary": "静音クリックを採用したハイエンドマウス。Logi Bolt対応で、長時間作業でも疲れにくい設計。",
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=800",
+    "asin": "B0B1DXGDN5",
+    "sources": [
+      {
+        "title": "【ベストバイ2025】買ってよかったもの・ガジェット・サービス10選",
+        "url": "https://note.com/yuuwata/n/n862bd156a33b"
+      }
+    ]
+  },
+  {
+    "id": "mx-keys-mini",
+    "name": "ロジクール MX KEYS mini",
+    "category": "キーボード",
+    "summary": "ミニマルなデザインの薄型ワイヤレスキーボード。確実な打鍵感と省スペース性を両立。",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800",
+    "asin": "B09HK97RNR",
+    "sources": [
+      {
+        "title": "【ベストバイ2025】買ってよかったもの・ガジェット・サービス10選",
+        "url": "https://note.com/yuuwata/n/n862bd156a33b"
+      }
+    ]
+  },
+  {
+    "id": "dretec-timer",
+    "name": "ドリテック 卓上タイマー T-587BK",
+    "category": "デスク周辺",
+    "summary": "大きなボタンで操作しやすい、カウントアップ/ダウン対応の卓上タイマー。作業時間の管理に最適。",
+    "image": "https://images.unsplash.com/photo-1508962914676-139429cf194f?w=800",
+    "asin": "B07N7D5D6T",
+    "sources": [
+      {
+        "title": "【ベストバイ2025】買ってよかったもの・ガジェット・サービス10選",
+        "url": "https://note.com/yuuwata/n/n862bd156a33b"
+      }
+    ]
+  },
+  {
+    "id": "airpods-pro-2",
+    "name": "Apple AirPods Pro (第2世代)",
+    "category": "オーディオ",
+    "summary": "強力なノイズキャンセリングと、Appleデバイスとの抜群の連携。日常のあらゆるシーンで活躍します。",
+    "image": "https://images.unsplash.com/photo-1588423771073-b8903fbb85b5?w=800",
+    "asin": "B0BDJ6Z971",
+    "sources": [
+      {
+        "title": "【ベストバイ2025】買ってよかったもの・ガジェット・サービス10選",
+        "url": "https://note.com/yuuwata/n/n862bd156a33b"
       }
     ]
   }
