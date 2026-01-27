@@ -14,6 +14,20 @@
     ]
   },
   {
+    "id": "rtx-5090",
+    "name": "NVIDIA GeForce RTX 5090",
+    "category": "PCパーツ",
+    "summary": "2026年現在のフラッグシップGPU。圧倒的なVRAM容量と演算性能を誇り、AI開発や最高設定での4Kゲーミングに必須級の性能を提供します。",
+    "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=800",
+    "asin": null,
+    "sources": [
+      {
+        "title": "【自作PC】2026年版：初心者向け自作PCガイド（パーツ選びから組み立てまで）",
+        "url": "https://qiita.com/pckisaki/items/f0e760fc6db8480e9eb9"
+      }
+    ]
+  },
+  {
     "id": "telework-chime-gadget",
     "name": "テレワーク用定時チャイムガジェット (DIY)",
     "category": "ガジェット",
