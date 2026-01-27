@@ -68,5 +68,46 @@
         "url": "https://qiita.com/miyay/items/b2a600ca83a07c35bab9"
       }
     ]
+  },
+  {
+    "id": "keyball-59",
+    "name": "keyball 59",
+    "category": "キーボード",
+    "summary": "トラックボールを搭載した自作キーボード。ホームポジションを崩さずに操作が可能です。",
+    "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=800",
+    "sources": [
+      {
+        "title": "今年導入したツール・ガジェットまとめ（2025令和最新版）",
+        "url": "https://qiita.com/hiros1991/items/30339d3fd9aceffc8755"
+      }
+    ]
+  },
+  {
+    "id": "pixel-watch-2",
+    "name": "Google Pixel Watch 2",
+    "category": "スマートウォッチ",
+    "summary": "Androidとの連携が抜群のスマートウォッチ。サクサクした動作と良好な電池持ちが特徴です。",
+    "image": "https://images.unsplash.com/photo-1544117518-30dd5bd7a9bc?w=800",
+    "asin": "B0CHX317R7",
+    "sources": [
+      {
+        "title": "今年導入したツール・ガジェットまとめ（2025令和最新版）",
+        "url": "https://qiita.com/hiros1991/items/30339d3fd9aceffc8755"
+      }
+    ]
+  },
+  {
+    "id": "switchbot-lock-pro",
+    "name": "SwitchBot ロック Pro",
+    "category": "スマートホーム",
+    "summary": "指紋認証で解錠可能なスマートロック。鍵を持ち歩く必要がなくなり、セキュリティも向上します。",
+    "image": "https://images.unsplash.com/photo-1558002038-1055907df827?w=800",
+    "asin": "B0CNPGRGGF",
+    "sources": [
+      {
+        "title": "今年導入したツール・ガジェットまとめ（2025令和最新版）",
+        "url": "https://qiita.com/hiros1991/items/30339d3fd9aceffc8755"
+      }
+    ]
   }
 ]
