@@ -1,0 +1,16 @@
+[
+  {
+    "id": "mac-studio-2022",
+    "name": "Apple Mac Studio (2022)",
+    "category": "PC",
+    "summary": "M1 Max/Ultraチップを搭載したハイパフォーマンスデスクトップ。プロ向けの作業やローカルLLMの動作にも適したパワフルな一台です。",
+    "image": "https://images.unsplash.com/photo-1647427060118-4911c9821b82?w=800",
+    "asin": "B09WCJBST9",
+    "sources": [
+      {
+        "title": "ローカルLLMを含めてAIの情報収集どうやってる？私なりのアプローチ",
+        "url": "https://qiita.com/nomurasan/items/354aa501aa9b877913a3"
+      }
+    ]
+  }
+]
