@@ -4,7 +4,7 @@
     "name": "ARZOPA 16インチ モバイルモニター",
     "category": "モニター",
     "summary": "軽量・薄型のサブモニター。USB-C一本で接続可能で、出先でのマルチディスプレイ環境を瞬時に構築します。",
-    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800",
+    "image": "./dist/assets/arzopa-monitor.jpg",
     "asin": "B0CH9XR3G4",
     "sources": [
       {
@@ -19,7 +19,7 @@
     "name": "ASUS ProArt PA27JCV (5Kモニター)",
     "category": "モニター",
     "summary": "12万円台で手に入る5K解像度のプロ向けモニター。4Kを凌駕する画素密度により、コードの視認性が飛躍的に向上します。",
-    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800",
+    "image": "./dist/assets/asus-proart-5k.jpg",
     "asin": "B0DHV99J1B",
     "sources": [
       {
@@ -34,7 +34,7 @@
     "name": "CIO SMARTCOBY SLIM II Wireless 2.0",
     "category": "モバイルバッテリー",
     "summary": "Qi2対応の薄型ワイヤレスモバイルバッテリー。スマホ背面に吸着し、ケーブルレスでスマートに充電可能です。",
-    "image": "https://images.unsplash.com/photo-1619130772021-9964724209f1?w=800",
+    "image": "./dist/assets/cio-smartcoby-slim2.jpg",
     "asin": "B0DLP392X8",
     "sources": [
       {
@@ -49,7 +49,7 @@
     "name": "Anker Magnetic Cable Holder",
     "category": "デスク周辺",
     "summary": "マグネット式でケーブルを固定。デスクからのずり落ちを防ぎ、作業環境を機能的に整えます。",
-    "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=800",
+    "image": "./dist/assets/anker-cable-holder.jpg",
     "asin": "B08X6D6S8S",
     "sources": [
       {
@@ -64,7 +64,7 @@
     "name": "Elgato Stream Deck Neo",
     "category": "入力デバイス",
     "summary": "ショートカットやマクロを物理ボタンに割り当て。開発ワークフローを劇的に加速させるツールです。",
-    "image": "https://images.unsplash.com/photo-1547082299-de196ea013d6?w=800",
+    "image": "./dist/assets/stream-deck-neo.jpg",
     "asin": "B0CZNCXW28",
     "sources": [
       {
@@ -79,7 +79,7 @@
     "name": "Quntis モニターライト",
     "category": "照明",
     "summary": "画面の反射を抑え、手元を最適に照らします。自動調光機能で長時間の画面注視による目の疲れを軽減します。",
-    "image": "https://images.unsplash.com/photo-1534073828943-f801091bb18c?w=800",
+    "image": "./dist/assets/quntis-light.jpg",
     "asin": "B08DKQZ97S",
     "sources": [
       {
@@ -94,7 +94,7 @@
     "name": "サンワダイレクト ケーブルトレー",
     "category": "デスク周辺",
     "summary": "配線を浮かせて収納し、デスク下のカオスを根本から解決。掃除のしやすさと清潔感を両立します。",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+    "image": "./dist/assets/sanwa-cable-tray.jpg",
     "asin": "B089K8D9J7",
     "sources": [
       {
