@@ -93,6 +93,11 @@ def main():
         amazon_url = generate_amazon_link(item.get('asin'), item['name'])
         sources_html = "".join([f'<li><a href="{s["url"]}" target="_blank">{s["title"]}</a></li>' for s in item['sources']])
         
+        # Engineer Description
+        engineer_desc_html = ""
+        if item.get('engineer_desc'):
+            engineer_desc_html = f'<section class="engineer-context"><h3>Engineer\'s Point</h3><p>{item["engineer_desc"]}</p></section>'
+
         # Amazon Image Link
         amazon_image_link = ""
         asin = item.get('asin')
@@ -124,6 +129,8 @@ def main():
         <p class="summary">{item['summary']}</p>
         
         <a href="{amazon_url}" class="amazon-btn" target="_blank">Amazonでチェックする</a>
+
+        {engineer_desc_html}
 
         {amazon_image_link}
 
@@ -267,6 +274,20 @@ header h1 a {
     background: white;
     padding: 30px;
     border-radius: 8px;
+}
+
+.engineer-context {
+    background: #eef2f7;
+    border-left: 4px solid #232f3e;
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 0 4px 4px 0;
+}
+
+.engineer-context h3 {
+    margin-top: 0;
+    color: #232f3e;
+    font-size: 1.1rem;
 }
 
 .detail-image {

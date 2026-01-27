@@ -122,6 +122,20 @@ header h1 a {
     border-radius: 8px;
 }
 
+.engineer-context {
+    background: #eef2f7;
+    border-left: 4px solid #232f3e;
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 0 4px 4px 0;
+}
+
+.engineer-context h3 {
+    margin-top: 0;
+    color: #232f3e;
+    font-size: 1.1rem;
+}
+
 .detail-image {
     width: 100%;
     max-height: 400px;
