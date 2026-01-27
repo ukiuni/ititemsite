@@ -3,7 +3,7 @@
     "id": "aeron-chair",
     "name": "Herman Miller アーロンチェア",
     "category": "オフィスチェア",
-    "summary": "人間工学に基づいた設計で、長時間の作業でも疲れにくい究極のオフィスチェア。腰痛改善にも定評があります。",
+    "summary": "人間工学に基づいた設計で、長時間の作業でも疲れにくい究極 of オフィスチェア。腰痛改善にも定評があります。",
     "image": "https://m.media-amazon.co.jp/images/I/719f9O-G83L._AC_SL1500_.jpg",
     "asin": "B09C3X72DC",
     "sources": [
@@ -24,6 +24,38 @@
       {
         "title": "【デスクツアー】tacoms メンバーの開発環境 vol.2 | Tacoms Tech Blog",
         "url": "https://zenn.dev/tacoms/articles/20241224-desk-tour-of-tacoms-vol-2"
+      },
+      {
+        "title": "大学生がHHKBを購入！有線接続の罠とおすすめキーマップ設定",
+        "url": "https://zenn.dev/hiro_tech415/articles/1dc0e7ce1a7cd0"
+      }
+    ]
+  },
+  {
+    "id": "keychron-k3-max",
+    "name": "Keychron K3 Max",
+    "category": "キーボード",
+    "summary": "ロープロファイルでQMK/VIAに対応した高性能ワイヤレスメカニカルキーボード。Mac/Windows両対応で、カスタマイズ性も抜群です。",
+    "image": "https://m.media-amazon.com/images/I/71R3T1J4XqL._AC_SL1500_.jpg",
+    "asin": "B0F7437BMD",
+    "sources": [
+      {
+        "title": "Keychron K3 Max を複数デバイス (Mac/Windows) に Bluetooth 接続して切り替えながら使う",
+        "url": "https://zenn.dev/indigo13love/articles/474ac2efede354"
+      }
+    ]
+  },
+  {
+    "id": "xreal-one-pro",
+    "name": "XREAL One Pro",
+    "category": "ARグラス",
+    "summary": "最新のARグラス。X1チップ搭載で空間コンピューティングを実現。高画質なディスプレイとしても活用可能です。",
+    "image": "https://m.media-amazon.com/images/I/51A07p8A61L._AC_SL1200_.jpg",
+    "asin": "B0FHQ9DZZJ",
+    "sources": [
+      {
+        "title": "XREAL One Pro(VRグラス)を買った話",
+        "url": "https://zenn.dev/galapagos/articles/c2b6cb830a765b"
       }
     ]
   }
