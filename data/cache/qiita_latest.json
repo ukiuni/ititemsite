@@ -12,5 +12,19 @@
         "url": "https://qiita.com/nomurasan/items/354aa501aa9b877913a3"
       }
     ]
+  },
+  {
+    "id": "telework-chime-gadget",
+    "name": "テレワーク用定時チャイムガジェット (DIY)",
+    "category": "ガジェット",
+    "summary": "ATtiny85と高精度RTCを使用した自作ガジェット。定時にチャイム音を鳴らし、テレワークのメリハリをつけます。コイン電池で数年稼働する超省電力設計。",
+    "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=800",
+    "asin": null,
+    "sources": [
+      {
+        "title": "1,000円で作る！超省電力・高精度な「テレワーク定時チャイム」ガジェット (ATtiny85 + RX-8025NB)",
+        "url": "https://qiita.com/nori-dev-akg/items/8777088b935438a16e2c"
+      }
+    ]
   }
 ]
