@@ -58,6 +58,7 @@ def main():
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>IT関連アイテム紹介サイト</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="favicon.ico">
 </head>
 <body>
     <header>
@@ -92,6 +93,11 @@ def main():
         amazon_url = generate_amazon_link(item.get('asin'), item['name'])
         sources_html = "".join([f'<li><a href="{s["url"]}" target="_blank">{s["title"]}</a></li>' for s in item['sources']])
         
+        # Amazon Image Link
+        amazon_image_link = ""
+        if item.get('asin'):
+            amazon_image_link = f'<div class="amazon-image-link"><a href="{amazon_url}" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/P/{item["asin"]}.01.LZZZZZZZ.jpg" alt="Amazonで見る"><p>Amazonで詳しく見る</p></a></div>'
+
         item_template = f"""
 <!DOCTYPE html>
 <html lang="ja">
@@ -100,6 +106,7 @@ def main():
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{item['name']} - ITアイテム紹介</title>
     <link rel="stylesheet" href="../css/style.css">
+    <link rel="icon" href="../favicon.ico">
 </head>
 <body>
     <header>
@@ -113,6 +120,8 @@ def main():
         <p class="summary">{item['summary']}</p>
         
         <a href="{amazon_url}" class="amazon-btn" target="_blank">Amazonでチェックする</a>
+
+        {amazon_image_link}
 
         <section class="sources">
             <h3>紹介されていた記事</h3>
@@ -224,6 +233,28 @@ header h1 a {
 .amazon-btn {
     background-color: #f0c14b;
     border: 1px solid #a88734;
+}
+
+.amazon-image-link {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    display: inline-block;
+    background: #fff;
+    text-align: center;
+}
+
+.amazon-image-link a {
+    text-decoration: none;
+    color: #333;
+}
+
+.amazon-image-link img {
+    max-width: 150px;
+    height: auto;
+    display: block;
+    margin: 0 auto 10px;
 }
 
 .item-detail {
