@@ -4,7 +4,7 @@
     "name": "ARZOPA 16インチ モバイルモニター",
     "category": "モニター",
     "summary": "軽量・薄型のサブモニター。USB-C一本で接続可能で、出先でのマルチディスプレイ環境を瞬時に構築します。",
-    "image": "./assets/arzopa-monitor.jpg",
+    "image": "./dist/assets/arzopa-monitor.jpg",
     "asin": "B0CH9XR3G4",
     "sources": [
       {
